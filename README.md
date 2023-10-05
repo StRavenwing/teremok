@@ -1,1 +1,1 @@
-[# Сказка в коммитах] (https://github.com/StRavenwing/teremok/commits/master)
+[Сказка в коммитах] (https://github.com/StRavenwing/teremok/commits/master)
